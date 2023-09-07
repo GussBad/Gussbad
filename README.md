@@ -8,6 +8,9 @@
 - <b>Active Directory Home lab</b>
   - [AD](https://github.com/GussBad/Active-Directory-Setup)
 
+- <b>Keylogger with Screenshot Capture</b>
+  - [Keylogger with python](https://github.com/GussBad/Keylogger-with-Screenshot-Capture)
+
 
 <h2>📃 Certifications </h2>
 
