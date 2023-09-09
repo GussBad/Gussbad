@@ -10,6 +10,9 @@
 
 - <b>Keylogger with Screenshot Capture</b>
   - [Keylogger with python](https://github.com/GussBad/Keylogger-with-Screenshot-Capture)
+ 
+- <b>Packet Tracer Network</b>
+  - [24 PC PROJECT](https://github.com/GussBad/Packet-Tracer-Network)
 
 
 <h2>📃 Certifications </h2>
