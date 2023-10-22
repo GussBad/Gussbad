@@ -13,6 +13,10 @@
  
 - <b>Packet Tracer Network</b>
   - [24 PC PROJECT](https://github.com/GussBad/Packet-Tracer-Network)
+ 
+  
+- <b>Simple Nmap Scanner</b>
+  - [If you want to learn how to make your own, take a look at the code](https://github.com/GussBad/Nmap-scanner)
 
 
 <h2>📃 Certifications </h2>
