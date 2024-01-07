@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Bankin App Kotlin & jetpack compose</b>
-  - [BankApp](https://github.com/GussBad/Banking-App-Kotlin)
+  - [BankApp](https://github.com/GussBad/Banking-App-Kotlin/compare/master?expand=1)
 
 - <b>Honeypot with Azure Sentinel</b>
   - [HoneyPot](https://github.com/GussBad/HoneyPotAzure)
