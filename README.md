@@ -12,7 +12,7 @@
 
 ## **Skills wall:**
 
-
+<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F73C7B?logo=javascript&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/shell%20script-4D4577?logo=gnu-bash&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/python-393359?logo=python&style=for-the-badge&logoColor=F2F2F2"/>
