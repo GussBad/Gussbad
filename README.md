@@ -35,7 +35,7 @@
 
 ## **Recent projects:**
 
-<a href="https://github.com/GussBad/Nmap-scanner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GussBad&repo=Nmap-scanner&repo=better-format&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+
 <a href="https://github.com/GussBad/Packet-Tracer-Network"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GussBad&repo=Packet-Tracer-Network&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/GussBad/HoneyPotAzure"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GussBad&repo=HoneyPotAzure&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/GussBad/Active-Directory-Setup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GussBad&repo=Active-Directory-Setup&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
