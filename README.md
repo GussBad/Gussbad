@@ -1,41 +1,63 @@
-<h1>Hi, I'm Gustavo <br/><a href="https://www.linkedin.com/in/gustavo-claudino23/">Cybersecurity Professional</a>
+<p align="center"><a href="https://twitter.com/saturn_cyberSec"><img src="https://img.shields.io/badge/twitter-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=twitter"/></a>
+<a href="https://www.linkedin.com/in/gustavo-claudino23/"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
+<p align="center">👋 Heyyy! I'm Gustavo, a brazilian hacker and developer.</p>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+## **About me:**
 
-- <b>Bankin App Kotlin & jetpack compose</b>
-  - [BankApp](https://github.com/GussBad/Banking-App-Kotlin/compare/master?expand=1)
+* Gustavo Claudino, 24 years
+* Cybersecurity and Android Developer
+* Currently studying Python
+* 2 Years, 2 Months and 8 Days since I started programming and hacking
 
-- <b>Honeypot with Azure Sentinel</b>
-  - [HoneyPot](https://github.com/GussBad/HoneyPotAzure)
- 
-- <b>Active Directory Home lab</b>
-  - [AD](https://github.com/GussBad/Active-Directory-Setup)
-
-- <b>Keylogger with Screenshot Capture</b>
-  - [Keylogger with python](https://github.com/GussBad/Keylogger-with-Screenshot-Capture)
- 
-- <b>Packet Tracer Network</b>
-  - [24 PC PROJECT](https://github.com/GussBad/Packet-Tracer-Network)
- 
-  
-- <b>Simple Nmap Scanner</b>
-  - [If you want to learn how to make your own, take a look at the code](https://github.com/GussBad/Nmap-scanner)
+## **Skills wall:**
 
 
-<h2>📃 Certifications </h2>
+<img src="https://img.shields.io/badge/javascript-F73C7B?logo=javascript&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/shell%20script-4D4577?logo=gnu-bash&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/python-393359?logo=python&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/styled%20components-393359?logo=styled%20components&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/git-F73C7B?logo=git&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/firebase-393359?logo=firebase&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/photoshop-4D4577?logo=adobe-photoshop&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/github%20actions-F73C7B?logo=github%20actions&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/visual%20studio%20code-4D4577?logo=visual%20studio%20code&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/mongodb-4D4577?logo=mongodb&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/react-F73C7B?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/sqlite-4D4577?logo=sqlite&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/figma-4D4577?logo=figma&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/html5-4D4577?logo=html5&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/npm-4D4577?logo=npm&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/github%20pages-393359?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/react%20native-4D4577?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/fastapi-F73C7B?logo=fastapi&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/github-4D4577?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
 
-- [IBM Cybersecurity Analyst](https://coursera.org/verify/SYJMHY2T3GDD)
-- [ISO/IEC 27001:2022](https://www.linkedin.com/in/gustavo-claudino23/)
-- [SOC Analyst - LetsDefend](https://app.letsdefend.io/certificate/show/4d7727a3-210b-4bc2-b6e0-bcd282e4ba7b)
-- [IT Support Google](https://www.credly.com/badges/bd3aa58c-5d2b-4c5b-9e2d-6a7b7d9b8574/linked_in_profile)
-- [Visual Elements Of User Interface Design - California Institute](https://coursera.org/verify/KWB4EUKEUTGA)
+## **Recent projects:**
 
-<h2> 🤳 Connect with me:</h2>
+<a href="https://github.com/GussBad/Banking-App-Kotlin/compare/master?expand=1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=central-nickgabe&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/Nick-Gabe/better-format"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=better-format&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/Nick-Gabe/FAPI-whack-a-potatoe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=FAPI-whack-a-potatoe&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/Nick-Gabe/elkjs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=elkjs&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/Nick-Gabe/dagre"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=dagre&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/Nick-Gabe/Discord-bad-apple"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=Discord-bad-apple&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 
-[<img align="left" alt="Gustavo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## **You can find me on:**
 
+*Click to be redirected*
 
-[instagram]: https://www.instagram.com/saturnvrockets/
-[linkedin]: https://www.linkedin.com/in/gustavo-claudino23/
+<p align="left"><a href="https://twitter.com/imnickgabe"><img src="https://img.shields.io/badge/twitter-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=twitter"/></a>
+<a href="https://linkedin.com/in/nickgabe"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
+<a href="mailto:nicolasgabrielctt@gmail.com"><img src="https://img.shields.io/badge/email-4D4577?logo=gmail&style=for-the-badge&logoColor=F2F2F2"/></a>
+<a href="https://www.npmjs.com/~nick-gabe"><img src="https://img.shields.io/badge/npm-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=npm"/></a>
+<a href="https://codepen.io/nick-gabe"><img src="https://img.shields.io/badge/codepen-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=codepen"/></a>
+<img src="https://img.shields.io/badge/imnickgabe-4D4577?logo=discord&labelColor=393359&style=for-the-badge&logoColor=F2F2F2"/></p>
 
+## **Follower of the day**
+
+*Showcases a random GitHub follower here everyday*
+
+<a href="https://github.com/edgarberlinck" alt="Edgar Muniz Berlinck"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+
+<hr>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=nick-gabe&style=for-the-badge&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&show_icons=true&icon_color=F2F2F2&rank_icon=github"/></p>
